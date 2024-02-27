@@ -3,7 +3,7 @@
 
 | Voilà |
 | :---------------------: |
-| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NHameleers/voila/HEAD?urlpath=voila%2Ftree%2Fnotebooks) |
+| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/malaikapaddison/voila/HEAD?urlpath=voila%2Ftree%2Fnotebooks) |
 
 | JupyterLab |
 | :---------------------: |
